@@ -56,6 +56,22 @@ Welcome! I am an independent mobile developer crafting reliable, functional, and
 
 ---
 
+### 🧩 Word Cross
+> **A relaxing word-hunt puzzle game — 30 themed levels, playable completely offline.**
+
+* **Category:** Word / Puzzle
+* **Status:** 🔜 Coming soon to Google Play
+* **Key Features:**
+  * 🧩 30 progressive levels across 10 hand-made themes.
+  * 👆 Swipe-to-select letter grid — drag across the board to reveal the hidden words.
+  * 🌍 5 languages (English, French, Arabic, Spanish, Portuguese) with full RTL support.
+  * 🌗 Light and dark themes.
+  * 💡 Hints and an energy system, with optional rewarded ads to top them up.
+  * 📴 100% offline functionality — your progress stays on your device.
+* **Privacy Policy:** [Privacy Policy](https://iamtrichi.github.io/PP/word-cross/privacy-policy.html)
+
+---
+
 ## 📬 Support & Feedback
 
 If you enjoy using my apps, have questions, or would like to report an issue:
