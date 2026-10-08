@@ -72,6 +72,21 @@ Welcome! I am an independent mobile developer crafting reliable, functional, and
 
 ---
 
+### 🧮 FlexiCalc
+> **Smart Unit Converter & Calculator — real-time math plus instant converted equivalents, fully offline.**
+
+* **Category:** Tools
+* **Status:** 🔜 Coming soon to Google Play
+* **Key Features:**
+  * ➕ Hybrid calculator pad with live expression evaluation (+ − × ÷ % ^, parentheses)
+  * 🔄 7 unit categories: Length, Weight, Temperature, Area, Volume, Speed, Currency
+  * 📜 Saved history log with copy, clear, and rewarded export
+  * 🌍 5 languages (English, French, Arabic, Spanish, Portuguese) with full RTL support
+  * 📴 100% offline functionality — your calculations stay on your device.
+* **Privacy Policy:** [Privacy Policy](https://iamtrichi.github.io/PP/flexicalc/privacy-policy.html)
+
+---
+
 ## 📬 Support & Feedback
 
 If you enjoy using my apps, have questions, or would like to report an issue:
