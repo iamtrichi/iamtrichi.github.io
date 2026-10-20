@@ -59,8 +59,11 @@ Welcome! I am an independent mobile developer crafting reliable, functional, and
 ### 🧩 Word Cross
 > **A relaxing word-hunt puzzle game — 30 themed levels, playable completely offline.**
 
+<a href="https://play.google.com/store/apps/details?id=com.trichi.wordcross" target="_blank">
+  <img src="https://img.shields.io/badge/Google_Play-Get_it_on_Google_Play-01875f?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play" />
+</a>
+
 * **Category:** Word / Puzzle
-* **Status:** 🔜 Coming soon to Google Play
 * **Key Features:**
   * 🧩 30 progressive levels across 10 hand-made themes.
   * 👆 Swipe-to-select letter grid — drag across the board to reveal the hidden words.
